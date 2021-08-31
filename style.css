@@ -1,0 +1,28 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+
+
+.modal-dialod
+{
+    width: 90%;
+}
+
+.image
+{
+    display: inline-block;
+    text-color: white;
+}
